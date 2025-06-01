@@ -5,7 +5,7 @@ Telegram member adder is an all in one fully automated tool for Telegram with +4
 
 #### GET HERE: https://rb.gy/lo9dvf
 
-VIDEO: 
+VIDEO: https://www.youtube.com/watch?v=DpBAr3v3FjA
 
 For any questions, feel free to ask us: 
 
@@ -49,7 +49,7 @@ Experience the future of Telegram automation today!
 
 ### GET HERE: https://rb.gy/lo9dvf
 
-VIDEO: 
+VIDEO: https://www.youtube.com/watch?v=DpBAr3v3FjA
 
 For any questions, feel free to ask us: 
 

@@ -72,4 +72,4 @@ For any questions, feel free to ask us: https://rb.gy/0uju8i
 16. No coding skills required, noob-friendly!
 
 #### Please ⭐ the repo to support our project
-<a href="https://github.com/TeleAddingMarketing/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025"><img alt="3d-num" src="https://count.getloli.com/get/@Telegram-Members-Adder?theme=3d-num" /></a>
+<a href="https://github.com/TeleAddingMarketing/Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025"><img alt="3d-num" src="https://count.getloli.com/get/@Telegram-Members-Adder-Scraper-Spammer-Cloner-ManyMore2025?theme=3d-num" /></a>

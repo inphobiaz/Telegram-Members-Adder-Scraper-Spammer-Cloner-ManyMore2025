@@ -7,7 +7,7 @@ Telegram member adder is an all in one fully automated tool for Telegram with +4
 
 VIDEO: https://www.youtube.com/watch?v=DpBAr3v3FjA
 
-For any questions, feel free to ask us: 
+For any questions, feel free to ask us: https://rb.gy/0uju8i
 
 <img src='menu.png' width='430'>
 
@@ -51,7 +51,7 @@ Experience the future of Telegram automation today!
 
 VIDEO: https://www.youtube.com/watch?v=DpBAr3v3FjA
 
-For any questions, feel free to ask us: 
+For any questions, feel free to ask us: https://rb.gy/0uju8i
 
 ### Whats so special about this?
 1. This tool is the first tool, which can scrape more than 10k members at once!
